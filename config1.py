@@ -1,0 +1,7 @@
+BASE_DIR = "E:\\DB\\"
+XML_DB_DIR = BASE_DIR+"XML_DATABASE\\3G\\"
+PARSED_DB_DIR = BASE_DIR+"PARSED_DATABASE\\3G\\"
+DB_HOST="localhost"
+DB_USER="root"
+DB_PASS=""
+DB_NAME="myrncml"

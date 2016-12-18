@@ -1,0 +1,7 @@
+
+ftp_server=10.10.10.113
+ftp_user=jamil_rc
+ftp_pass=rc@jamil
+local_dir=E:\DB\XML_DATABASE\2G\
+ftp_dir=/DATABASE/FLEXI/
+local_dir_prefix=Flexi_

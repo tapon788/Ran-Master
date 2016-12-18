@@ -1,0 +1,10 @@
+<managedObject class="IPNB" distName="PLMN-PLMN\RNC-173\IPNB-58" operation="create">
+  <p name="IPNB ID">58</p>
+  <p name="MinSCTPPortIub">49316</p>
+  <p name="NBAPDSCP">46</p>
+  <p name="NodeBIPAddress">10.47.11.134</p>
+  <p name="SourceNBAPIPAddress">10.47.3.2</p>
+  <p name="SourceNBAPIPNetmask">32</p>
+  <p name="VRFId">0</p>
+  <p name="CControlPortID">1</p>
+</managedObject>

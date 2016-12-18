@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "gui_interface.pyw", line 120, in <module>
+  File "gui_interfaces\gui_download.pyc", line 5, in <module>
+  File "gui_interfaces\gui_settings.pyc", line 118, in <module>
+  File "gui_interfaces\gui_settings.pyc", line 57, in load
+  File "controller\read_config.pyc", line 15, in reader
+IOError: [Errno 2] No such file or directory: 'C:\\Python27\\Adjacency\\dist\\resources\\test.conf'
+Traceback (most recent call last):
+  File "gui_interface.pyw", line 193, in <module>
+  File "Tkinter.pyc", line 1562, in wm_iconbitmap
+_tkinter.TclError: bitmap "C:\Python27\Adjacency\dist\gui_interfaces\resources\images\ranmaster.ico" not defined
+Traceback (most recent call last):
+  File "gui_interface.pyw", line 193, in <module>
+  File "Tkinter.pyc", line 1562, in wm_iconbitmap
+_tkinter.TclError: bitmap "C:\Python27\Adjacency\dist\gui_interfaces\resources\images\ranmaster.ico" not defined
